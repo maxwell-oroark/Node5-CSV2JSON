@@ -1,0 +1,16 @@
+{
+  "name": "csv-app",
+  "version": "1.0.0",
+  "description": "converts csv to json",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "maxwell douglas oroark",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.2",
+    "request": "^2.69.0"
+  }
+}
