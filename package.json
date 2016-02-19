@@ -10,7 +10,10 @@
   "author": "maxwell douglas oroark",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
     "fs": "0.0.2",
+    "morgan": "^1.7.0",
     "request": "^2.69.0"
   }
 }
